@@ -1,0 +1,13 @@
+<include>
+  <user id="air780">
+    <params>
+      <param name="password" value="199911"/>
+    </params>
+    <variables>
+      <variable name="accountcode" value="air780"/>
+      <variable name="user_context" value="default"/>
+      <variable name="effective_caller_id_name" value="Air780"/>
+      <variable name="effective_caller_id_number" value="air780"/>
+    </variables>
+  </user>
+</include>

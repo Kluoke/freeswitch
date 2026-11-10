@@ -1,0 +1,16 @@
+# FreeSWITCH runtime data
+db/
+log/
+recordings/
+recordings/*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
